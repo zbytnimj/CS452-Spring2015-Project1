@@ -20,4 +20,5 @@ Requirements:
 2. use webgl-utils.js, initShaders.js and MV.js from Angel
 3. three files are required in the solution: project1.html, project1.js and project1.README.txt. The 
 project1.README.txt file will contain your name(s) and the date along with a brief description of your 
-game. As before, all files should contain a comment including your name(s) and date.
+game. Be sure to include complete details of how to interact with your game, the scoring system, and
+how to win. As before, all files should contain a comment including your name(s) and date.
