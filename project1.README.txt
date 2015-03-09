@@ -1,3 +1,2 @@
-name, date, description
-
+Michael Zbytniewski, Anthony Moran, Project1
 be sure to include complete details of how to interact with your game, the scoring system, and how to win
